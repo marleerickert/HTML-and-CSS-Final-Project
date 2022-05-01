@@ -1,0 +1,33 @@
+*{
+    width:100%;
+    font-size:12pt;
+    font-family:sans-serif;
+    background:white;
+    color:black !important;
+    text-align:left;
+    margin:0px;
+    padding:0px;
+    display:block;
+    top:0%;
+    height:auto;
+    opacity:1;
+    border:none;
+    text-shadow:none !important;
+    font-weight:normal;}
+header{border:none;}
+h1{font-size:12pt;}
+h2{font-size:12pt;}
+span{display:none;}
+script{display:none;}
+section{
+    border:none;
+    opacity:1;
+    min-height:0 !important;}
+aside{display:none;}
+footer{opacity:1;}
+table{border:none;}
+th{display:none;}
+td{
+    border:none;
+    padding: 0;
+    float:left;}
